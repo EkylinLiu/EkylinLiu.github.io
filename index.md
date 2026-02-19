@@ -1,1 +1,1 @@
-[NTL paper (PDF)](NTL.pdf)
+[NTL paper (PDF)](NighttimeLight.pdf)
